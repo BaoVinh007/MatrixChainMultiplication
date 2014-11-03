@@ -1,0 +1,18 @@
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\bin\Debug\MatrixChainMultiplication.exe.config
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\bin\Debug\MatrixChainMultiplication.exe
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\bin\Debug\MatrixChainMultiplication.pdb
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.csprojResolveAssemblyReference.cache
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.Form1.resources
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.Properties.Resources.resources
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.csproj.GenerateResource.Cache
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.exe
+c:\users\vinhnguyen\documents\visual studio 2012\Projects\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.pdb
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\bin\Debug\MatrixChainMultiplication.exe.config
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.exe
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.pdb
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\bin\Debug\MatrixChainMultiplication.exe
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\bin\Debug\MatrixChainMultiplication.pdb
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.Form1.resources
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.Properties.Resources.resources
+C:\Users\VinhNguyen\Documents\Visual Studio 2012\Projects\FB Questions\MatrixChainMultiplication\MatrixChainMultiplication\obj\Debug\MatrixChainMultiplication.csproj.GenerateResource.Cache
